@@ -1,0 +1,14 @@
+c:\Users\alexander.swedlund\New folder\metoder\metoder\bin\Debug\net8.0\metoder.exe
+c:\Users\alexander.swedlund\New folder\metoder\metoder\bin\Debug\net8.0\metoder.deps.json
+c:\Users\alexander.swedlund\New folder\metoder\metoder\bin\Debug\net8.0\metoder.runtimeconfig.json
+c:\Users\alexander.swedlund\New folder\metoder\metoder\bin\Debug\net8.0\metoder.dll
+c:\Users\alexander.swedlund\New folder\metoder\metoder\bin\Debug\net8.0\metoder.pdb
+c:\Users\alexander.swedlund\New folder\metoder\metoder\obj\Debug\net8.0\metoder.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\alexander.swedlund\New folder\metoder\metoder\obj\Debug\net8.0\metoder.AssemblyInfoInputs.cache
+c:\Users\alexander.swedlund\New folder\metoder\metoder\obj\Debug\net8.0\metoder.AssemblyInfo.cs
+c:\Users\alexander.swedlund\New folder\metoder\metoder\obj\Debug\net8.0\metoder.csproj.CoreCompileInputs.cache
+c:\Users\alexander.swedlund\New folder\metoder\metoder\obj\Debug\net8.0\metoder.dll
+c:\Users\alexander.swedlund\New folder\metoder\metoder\obj\Debug\net8.0\refint\metoder.dll
+c:\Users\alexander.swedlund\New folder\metoder\metoder\obj\Debug\net8.0\metoder.pdb
+c:\Users\alexander.swedlund\New folder\metoder\metoder\obj\Debug\net8.0\metoder.genruntimeconfig.cache
+c:\Users\alexander.swedlund\New folder\metoder\metoder\obj\Debug\net8.0\ref\metoder.dll
